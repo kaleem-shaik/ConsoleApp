@@ -1,0 +1,7 @@
+C:\Users\kalee\Code Prac\ConsoleAppWithGit\ConsoleAppWithGit\bin\Debug\ConsoleAppWithGit.exe.config
+C:\Users\kalee\Code Prac\ConsoleAppWithGit\ConsoleAppWithGit\bin\Debug\ConsoleAppWithGit.exe
+C:\Users\kalee\Code Prac\ConsoleAppWithGit\ConsoleAppWithGit\bin\Debug\ConsoleAppWithGit.pdb
+C:\Users\kalee\Code Prac\ConsoleAppWithGit\ConsoleAppWithGit\obj\Debug\ConsoleAppWithGit.csproj.AssemblyReference.cache
+C:\Users\kalee\Code Prac\ConsoleAppWithGit\ConsoleAppWithGit\obj\Debug\ConsoleAppWithGit.csproj.CoreCompileInputs.cache
+C:\Users\kalee\Code Prac\ConsoleAppWithGit\ConsoleAppWithGit\obj\Debug\ConsoleAppWithGit.exe
+C:\Users\kalee\Code Prac\ConsoleAppWithGit\ConsoleAppWithGit\obj\Debug\ConsoleAppWithGit.pdb
